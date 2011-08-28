@@ -3,7 +3,7 @@
 ## Thanks
 A special thanks to [Markus "Cypher" Prinz][Cypher] who brought me to Jekyll and Github Pages in the first place. Another special thanks goes out to [Thomas "xon1c" Nägele][xon1c], for pointing me to "320 and up". 
 
-A shout out to Vito Botta for his blog post [Migrating from Wordpress to Jekyll - Part 2: **Everything** you need to know about Jekyll][migratewpjekyll] -- I've found some pretty helpfull hints in there.
+A shout out to Vito Botta for his blog post [Migrating from Wordpress to Jekyll - Part 2: **Everything** you need to know about Jekyll][migratewpjekyll] -- I've found some pretty helpful  hints in there.
 
 Thank you [Paul Irish][paulirish] and the numerous commiters to the [HTML5 Boilerplate][boilerplate] project on [github][boilerplaterepomem] as well as [Andy Clarke][andyclarke] for creating [320 and up][320andup] -- you guys are awesome. :)
 
@@ -64,7 +64,7 @@ This is where your layout files go. I've included three into the default package
 +  The layout for a single is defined `post.html`.
 
 ### _plugins
-This is the directory where all your plugins go. Since I don't have any plugins for Jekyll that I want to bundle, I have included the nearly empty file `README.md` so this folder gets added to the repository and commited non the less.
+This is the directory where all your plugins go. Since I don't have any plugins for Jekyll that I want to bundle, I have included the nearly empty file `README.md` so this folder gets added to the repository and committed non the less.
 
 ### _posts
 This is the folder where your Blogposts go. `1970-1-1-hello-world.md`, `1971-1-1-hello-world.md`, `1972-1-1-hello-world.md` and `1973-1-1-hello-world.md` are just sample data.
@@ -82,7 +82,7 @@ Your error page.
 This is where you can set up an Atom-Feed for your page. I will provide a more detailed explaination in one of the next iterations.
 
 ## index.md
-This is were the content for your index page goes. The generation of an overview of the blog posts is independant of this, though.
+This is were the content for your index page goes. The generation of an overview of the blog posts is independent of this, though.
 
 ## Rest of the Folder Structure & Included Software
 [HTML5 Boilerplate][boilerplate] and [320 and up][320andup] are responsible for the rest of the folder structure. It's pretty much the basic folder structure of every website that you will find around the interwebz.
